@@ -1,0 +1,21 @@
+{
+    "name": "001-base-node",
+    "version": "1.0.0",
+    "description": "Es una aplicacion para hacer multiplicaciones ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "multiplicacion",
+        "tablas"
+    ],
+    "author": "Maria Guadalupe Legorreta Millan",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^16.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
